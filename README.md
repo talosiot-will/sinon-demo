@@ -16,5 +16,7 @@ Then run the install script
 `source ./install`
 
 
-## 
+## Using this test
+
+First I would read the blog post and the test code in `test/`.  You can run them yourself with `./run_tests`
 
